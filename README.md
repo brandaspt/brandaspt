@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 ## 📖  What I am currently learning / improving on
 
 [<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][learning_now_anchor]&nbsp;
+[<img src="https://img.shields.io/badge/Socket-282C34?logo=socket&logoColor=C21325" alt="Socket logo" title="Socket" height="25" />][learning_now_anchor]&nbsp;
 [<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
 
 ## 👾  What I am interested in learning at some point
