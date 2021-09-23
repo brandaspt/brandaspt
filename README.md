@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="22" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="22" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="22" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/npm-282C34?logo=npm&logoColor=C8392C" alt="npm logo" title="npm" height="22" />][tech_tools_anchor]
 
 <a name="learning-next"></a>
 
