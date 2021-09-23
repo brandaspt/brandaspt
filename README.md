@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🛠  Technologies and tools
+## 🛠  Current Tech Stack
 
 <a name="learning-now"></a>
 
@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 &nbsp;
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
-
 
 ## 🔍  Where to find me
 
