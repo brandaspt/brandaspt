@@ -40,13 +40,13 @@ Here are some ideas to get you started:
 
 <a name="learning-next"></a>
 
-## 📖  What I am currently learning / improving on
+## 📖  Currently learning / improving on
 
 [<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />][learning_now_anchor]&nbsp;
 [<img src="https://img.shields.io/badge/Socket.io-282C34?logo=socketdotio&logoColor=C21325" alt="Socket logo" title="Socket.io" height="25" />][learning_now_anchor]&nbsp;
 [<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
 
-## 👾  What I am interested in learning at some point
+## 👾  Learning next
 
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
 &nbsp;
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
 
-## 🔍  Where to find me
+## 👀 Where to find me
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/engtiagobrandao)
 
