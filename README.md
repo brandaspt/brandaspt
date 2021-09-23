@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Tiago, a full stack web developer with a Master's degree in Environmental Engineering.
+
 <!--
 **brandaspt/brandaspt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
