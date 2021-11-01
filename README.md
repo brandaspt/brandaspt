@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tiago, a full stack web developer with a Master's degree in Environmental Engineering.
+I'm Tiago, a full stack web developer with a Master's degree in Environmental Engineering and over 5 years of experience delivering Renewable Energy Projects.
 
 <!--
 **brandaspt/brandaspt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="22" />][learning_now_anchor]
 [<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="22" />][learning_now_anchor]
 
-## 👾  Learning next
+## 🔭  Learning next
 
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="22" />][learning_next_anchor]
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="22" />][learning_next_anchor]
